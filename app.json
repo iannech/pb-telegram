@@ -1,7 +1,7 @@
 {
-  "name": "pandorabots-twilio-app",
-  "description": "Connect a Pandorabot to a Twilio phone number",
-  "repository": "https://github.com/djfdev/pandorabots-twilio-app.git",
+  "name": "rossie-telegram",
+  "description": "Connect to Telegram",
+  "repository": "https://github.com/iannech/rossie-telegram.git",
   "env": {
     "PB_APP_ID": {
       "description": "Your Pandorabots application ID",
